@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="row no-gutters footer">
         <div className=" footer-left col l-4 m-4 c-12" >
             <div className="logo-footer ">
-                <img src='/images/logo-footer.png'></img>
+                <img src='https://kingshoes.vn/data/upload/media/cua-hang-giay-sneaker-chinh-giay-uy-tin-nhat-den-king-shoes-authenti-hcm-2-1624430336.png'></img>
             </div>
             <h5>
                 THÔNG TIN LIÊN HỆ

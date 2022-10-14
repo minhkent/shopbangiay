@@ -27,7 +27,7 @@ const Header = ({setShow,setShowMenu,setShowSearch}) => {
               <div className="row no-gutters header">
                     <div className="logo l-2 m-6 c-6">
                          <a href="#" className="link-logo" >
-                              <img className="img-logo"  src="/images/logo-header.png"></img>
+                              <img className="img-logo"  src="https://kingshoes.vn/data/upload/media/cu%CC%9B%CC%89a-ha%CC%80ng-gia%CC%80y-sneaker-chi%CC%81nh-ha%CC%80ng-uy-ti%CC%81n-nha%CC%82%CC%81t-de%CC%82%CC%81n-king-shoes-authenti-hcm-6.png"></img>
                          </a>
                     </div>
                     <div className="nav l-7 m-0 c-0">
