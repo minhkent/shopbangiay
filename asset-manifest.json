@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shopbangiay/static/css/main.46923d88.css",
-    "main.js": "/shopbangiay/static/js/main.a888423f.js",
+    "main.js": "/shopbangiay/static/js/main.d49017c3.js",
     "static/js/787.c401c51e.chunk.js": "/shopbangiay/static/js/787.c401c51e.chunk.js",
     "index.html": "/shopbangiay/index.html",
     "main.46923d88.css.map": "/shopbangiay/static/css/main.46923d88.css.map",
-    "main.a888423f.js.map": "/shopbangiay/static/js/main.a888423f.js.map",
+    "main.d49017c3.js.map": "/shopbangiay/static/js/main.d49017c3.js.map",
     "787.c401c51e.chunk.js.map": "/shopbangiay/static/js/787.c401c51e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46923d88.css",
-    "static/js/main.a888423f.js"
+    "static/js/main.d49017c3.js"
   ]
 }
