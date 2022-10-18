@@ -958,7 +958,8 @@
   width: 70px;
   height:25px;
   background-color: yellow;
-  color: white;
+  color: black;
+  font-weight: bold;
 }
 
 .content-product:hover{
@@ -983,7 +984,8 @@
   background-color: yellow;
   border: none;
   border-radius: 5px;
-  color: white;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
   cursor: pointer;
   position: absolute;
   bottom: 10px;
@@ -1066,6 +1068,16 @@
     margin-top: 15%;
   }
 
+  .content-product{
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 10%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .content-product:hover{
+    border: none;
+  }
+
 }
 
 /* Tablet responsive*/
@@ -1088,6 +1100,16 @@
   
   .header-search{
     width: 50%;
+  }
+
+  .content-product{
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 10%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .content-product:hover{
+    border: none;
   }
 
   .footer-right iframe {

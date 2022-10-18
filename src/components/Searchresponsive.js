@@ -3,7 +3,7 @@ import axios from 'axios';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faXmark } from '@fortawesome/free-solid-svg-icons';
 import Search from './Search';
-import { data } from './dataProduct';
+// import { data } from './dataProduct';
 const Searchresponsive = ({setShowSearch}) => {
     const [search,setSearch]  =useState('')
     const [posts,setPost] = useState([])
