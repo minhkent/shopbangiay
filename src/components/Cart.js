@@ -16,7 +16,7 @@ const Cart = ({setShow}) => {
                             <div className='overlay'  onClick={()=>setShow(true)}></div>
                             <div className='box-cart'>
                                 <h1>Giỏ hàng</h1>
-                                <img src='./images/giohangtrong.jpg'/>
+                                <img src='https://nhuachaua.com/images/gio-hang-trong.jpg'/>
                                 <p>Không có sản phẩm nào trong giỏ hàng</p>
                             </div>
                         </>)
